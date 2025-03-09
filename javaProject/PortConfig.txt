@@ -1,0 +1,5 @@
+Port Configuration: I2C,SPI,OneWire,UART
+# of sensors:4
+# of displays:0
+# of wireless adapters:0
+# of motor drivers:0
